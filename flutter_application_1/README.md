@@ -1,16 +1,26 @@
-# flutter_application_1
+Documentos
 
-A new Flutter project.
+Aspectos del proyecto final.pdf
 
-## Getting Started
+Practicas
 
-This project is a starting point for a Flutter application.
+boolean.dart
 
-A few resources to get you started if this is your first Flutter project:
+definicion_variable.dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+helloworld.dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+listas.dart
+
+mapeo.dart
+
+mapeo2.dart
+
+mapeo3.dart
+
+mapeo_tablas.dart
+
+operacion.dart
+
+
+flutter_application_1
